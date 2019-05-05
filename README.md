@@ -2,5 +2,5 @@
 
 ### ScreenShots
 
-<img src="img/sc1.png"><br>
+<img src="imgs/sc1.png"><br>
 
